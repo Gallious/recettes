@@ -1,21 +1,21 @@
-# Recette du Bronx
+# Schtroumpf-Recette du Bronx
 
-## Liste des ingrédients
+## Schtroumpf-Liste des ingrédients
 
-* 1.5 fl.oz. de gin
-* 0.5 fl.oz. de vermouth rouge(martini, cinzano)
-* 0.5 fl.oz. de vermouth dry (martini, noilly prat)
-* 1   fl.oz. de jus d'orange
+* 4.5 cl de gin
+* 1.5 cl de vermouth rouge (martini, cinzano)
+* 1.5 cl de vermouth dry (martini, noilly prat)
+* 3 cl de jus d'orange
 
-## Étapes de la recette
+## Étapes de la Schtroumpf-recette
 
-* Réalisez la recette "Bronx" au shaker .
-* Frapper les ingrédients au shaker avec des glaçons et versez dans le verre en retenant la glace.
-* Servir dans un verre de type "verre à martini".
+* Schtroumpfez la recette "Bronx" au shaker .
+* Schtroumpfer les ingrédients au shaker avec des glaçons et schtroumpfez dans le verre en reschtroumpfant la glace.
+* Schtroumpfer dans un verre de type "verre à martini".
 
-## Variante de la recette
+# Schtroumpf-Variante de la recette
 
-# Alcools :
+## Alcools :
 
 * 1.5 cl de Vermouth dry
 * 1.5 cl de Vermouth doux
@@ -25,4 +25,3 @@
 
 * 0.5 cl de jus d'orange
 * 1 zeste d'orange
-
