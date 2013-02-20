@@ -1,18 +1,11 @@
 # Recette du Bronx
 
-## Liste des ingrédients (en Français)
+## Liste des ingrédients
 
-* 4.5 cl de gin
-* 1.5 cl de vermouth rouge (martini, cinzano)
-* 1.5 cl de vermouth dry (martini, noilly prat)
-* 3 cl de jus d'orange
-
-## List of ingredients (English version)
-
-* 1.5 fl.oz. of gin
-* 0.5 fl.oz. of red vermouth (martini, cinzano)
-* 0.5 fl.oz. of dry vermouth (martini, noilly prat)
-* 1   fl.oz. of orange juice
+* 1.5 fl.oz. de gin
+* 0.5 fl.oz. de vermouth rouge(martini, cinzano)
+* 0.5 fl.oz. de vermouth dry (martini, noilly prat)
+* 1   fl.oz. de jus d'orange
 
 ## Étapes de la recette
 
