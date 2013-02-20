@@ -1,9 +1,10 @@
-# Recette de Bronx
+# Variante de la recette du Bronx
 
-* 4.5 cl de gin
-* 1.5 cl de vermouth rouge (martini, cinzano)
-* 1.5 cl de vermouth dry (martini, noilly prat)
-* 3 cl de jus d'orange
+* 1.5 cl de Vermouth dry
+* 1.5 cl de Vermouth doux
+* 3 cl de Gin
+* 0.5 cl de jus d'orange
+* 1 zeste d'orange
 
 # Liste des ingrédients
 
